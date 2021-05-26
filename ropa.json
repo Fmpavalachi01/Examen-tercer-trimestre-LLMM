@@ -1,0 +1,52 @@
+{
+	"camisetas":[{
+           "manga":"Manga corta",
+           "marca":"Mike",
+           "tallas":"S, M y L"
+		},
+		{
+           "manga":"Manga larga",
+           "marca":"Addidas",
+           "tallas":"M y L"
+		},
+		{
+           "manga":"Sin mangas",
+           "marca":"Gordan",
+           "tallas":"M, L y XL"
+		}
+    ],
+
+	"pantalones":[{
+		"longitud":"Cortos",
+		"marca":"Gordan",
+		"tallas":"S, M y XL"
+	},
+	{
+		"longitud":"Cortos",
+		"marca":"Mike",
+		"tallas":"S y M"
+	},
+	{
+		"longitud":"Largos",
+		"marca":"Addidas",
+		"tallas":"M y XL"
+	}
+	],
+	
+	"zapatillas":[{
+		"deporte":"Baloncesto",
+		"marca":"Gordan",
+		"tallas":"41, 43 y 45"
+	},
+	{
+		"deporte":"Fútbol",
+		"marca":"Messirve",
+		"tallas":"40, 41 y 42"
+	},
+	{
+		"deporte":"Baloncesto",
+		"marca":"Mike",
+		"tallas":"44, 45 y 46"
+	}
+	]
+}
